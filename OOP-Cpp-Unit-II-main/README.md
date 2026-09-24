@@ -4,7 +4,7 @@ Student Information
 
                                             
 
-Student Name   :                                      Adarsh Rathod                                      
+Student Name   :                                      Sumit Patil                                    
 
 ZPRN            :                                     125UAD1148
 
